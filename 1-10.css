@@ -71,10 +71,11 @@ main {
   .step-box {
     width: 90%;
     float: none;
-    margin-right: 0;
+    margin: 0 auto;
     margin-bottom: 20px;
   }
   .step-box:last-child {
+    margin: 0 auto;
     margin-bottom: 0;
   }
 }
